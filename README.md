@@ -1,1 +1,2 @@
 # Abstraction
+An abstraction exercise.
